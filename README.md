@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Raffaella
+# Hi there 👋 My name is Raffaella
 ### I'm wannabe Data Analyst 👩‍💻
 
 <!--
